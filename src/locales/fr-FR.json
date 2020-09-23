@@ -1,0 +1,29 @@
+{
+    "bio": {
+        "name": "Je m'appel Benjamin Bensabat",
+        "work": "Je suis developpeur full stack",
+        "nationality": "Francais, vivant en israel depuis 2012 ✌️",
+        "diplome": "Ingénieur en informatique, je suis passioné du code et du jeux video",
+        "proverb": "'Un site web vaut mille mot' - Me"
+    },
+    "title": {
+        "about": "À propos",
+        "contact": "Contactez-moi",
+        "stack": "Compétence",
+        "experience": "Expériences",
+        "reference": "Ils m'ont fait confiance, osez faire le pas !"
+    },
+    "whatsapp": {
+        "info": "Vous avez une question ?", 
+        "message": "Hello Ben, j'aurai besoin de votre expertise pour la réalisation de mon projet"
+    },
+    "contact": {
+        "subtitle": "Demandez un devis, c'est gratuit ! "
+    },
+    "send": "Envoyez",
+    "time": {
+        "years": "ans",
+        "month": "mois",
+        "day": "jours"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "bio": {
+        "name": "My name is Benyamin Benshabat",
+        "work": "I am full stack developer",
+        "nationality": "French born and leaving in israel since 2012",
+        "diplome": "I hold of B.sc Computer science, geek, passionate of the code",
+        "proverb": "A website is worth a thousand words - Me"
+    },
+    "title": {
+        "about": "About",
+        "contact": "Contact",
+        "stack": "Stack",
+        "experience": "Experiences",
+        "reference": "They trusted me, dare to take the step!"
+    },
+    "whatsapp": {
+        "info": "Do you have a question ?", 
+        "message": "Hello Ben, I need you for my project"
+    },
+    "contact": {
+        "subtitle": "Request a quote, it's free ! "
+    },
+    "send": "send",
+    "time": {
+        "years": "years",
+        "month": "month",
+        "day": "day"
+    }
+}
