@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55b05fe97e48ae122e53",
-    "url": "/portfolio/css/app.edb2e5e0.css"
+    "revision": "7609bc8dd45bb1c2f6a7",
+    "url": "/portfolio/css/app.f52bc9c8.css"
   },
   {
     "revision": "bd1a6fbd994868c17a08",
@@ -18,6 +18,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "03538de79f9c442d4d01a44b3ced5e24",
     "url": "/portfolio/img/angularJS.03538de7.png"
+  },
+  {
+    "revision": "bd0c179eb424b2220cfe4ddc84a37e8d",
+    "url": "/portfolio/img/ben-emoji.bd0c179e.png"
   },
   {
     "revision": "22a7a15a52a0b154cd5d33573d99eef1",
@@ -60,10 +64,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/img/nodeJS.521444a2.png"
   },
   {
-    "revision": "1f5ee306993296256babc17e0a797cc8",
-    "url": "/portfolio/img/profil-ben.1f5ee306.png"
-  },
-  {
     "revision": "fac6b3f2629d5961428a6de164c90cec",
     "url": "/portfolio/img/rocket.fac6b3f2.svg"
   },
@@ -80,12 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/img/vueJS.82b9c7a5.png"
   },
   {
-    "revision": "5d9809f87e5d869381acd10c1aec9189",
+    "revision": "22cc867780a45c4a1e3f346858db4e60",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "55b05fe97e48ae122e53",
-    "url": "/portfolio/js/app.a863ceda.js"
+    "revision": "7609bc8dd45bb1c2f6a7",
+    "url": "/portfolio/js/app.3af07e7a.js"
   },
   {
     "revision": "bd1a6fbd994868c17a08",
