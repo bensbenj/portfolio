@@ -30,7 +30,7 @@
             <span class="author">
               <img
                 alt="profil linkedin"
-                src="https://media-exp1.licdn.com/dms/image/C5603AQFFsaJkPaItuQ/profile-displayphoto-shrink_100_100/0?e=1605139200&v=beta&t=LDi9v2CXYVENhAnVaAmXx-PMDNqMyEPWfZb2k3fyNPo"
+                src="https://media-exp1.licdn.com/dms/image/C5603AQFFsaJkPaItuQ/profile-displayphoto-shrink_100_100/0/1588232588205?e=1612396800&v=beta&t=xMD9gEqBm_sDnoJizYRAOfRDTIB_kgMNCg8XEbFZKzw"
               />
               <a
                 >Lea Zaghdoun - Customer Success Manager - Account Manager at
@@ -52,7 +52,7 @@
             <span class="author">
               <img
                 alt="profil linkedin"
-                src="https://media-exp1.licdn.com/dms/image/C5603AQFwCb8vM4sEKA/profile-displayphoto-shrink_100_100/0?e=1605139200&v=beta&t=gwx0RKQTCmELtg2e6u2VKkiHu4bLN9hdHZtezMurQC0"
+                src="https://media-exp1.licdn.com/dms/image/C5603AQFwCb8vM4sEKA/profile-displayphoto-shrink_100_100/0?e=1612396800&v=beta&t=I00kYTw1k-8418GnYHNNc8nPpsGrXFUTPo82M760bqY"
               />
               <a>Simon ARAZI - Co-Founder & CTO @ Depanneo</a>
             </span>
@@ -69,7 +69,7 @@
             <span class="author">
               <img
                 alt="profil linkedin"
-                src="https://media-exp1.licdn.com/dms/image/C4D03AQEIGZDkVZZVsA/profile-displayphoto-shrink_100_100/0?e=1605139200&v=beta&t=lFCEb-neJ0vud_9wUmCRUdUwgpUV2JYxy2CznYjHyLg"
+                src="https://media-exp1.licdn.com/dms/image/C4D03AQEIGZDkVZZVsA/profile-displayphoto-shrink_100_100/0?e=1612396800&v=beta&t=p4DUW0vSIRqia1uvXPXTCtrQVRZhyhTuwP8yChRcTkU"
               />
               <a
                 >Vanessa Sonigo-Rozenbaumas - Conseil en stratégie commerciale
