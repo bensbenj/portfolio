@@ -2,7 +2,7 @@
 
 ## url:
 
-👉 [My portfolio](bensbenj.github.io/portfolio)
+👉 [My portfolio](https://bensbenj.github.io/portfolio/)
 
 ## stack:
 
