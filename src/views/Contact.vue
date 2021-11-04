@@ -98,7 +98,7 @@ export default {
       if (this.validation) {
         emailjs
           .sendForm(
-            "service_zt7wwqy", //window.process.env.EMAIL_ID,
+            "service_c2bm459", //window.process.env.EMAIL_ID,
             "template_ud0tic7", // process.env.TEMPLATE_ID,
             e.target,
             "user_locjTmYtxEob24JGjRFI2" //process.env.USER_ID
